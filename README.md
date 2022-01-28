@@ -50,7 +50,7 @@ int pos = scan.nextInt();
 	
 
 
-#Tower Defence
+# Tower Defence
 g.setColor(Color.WHITE);
         g.fillRect(300, 0, 100, 300);
         
