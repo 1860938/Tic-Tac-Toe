@@ -37,7 +37,7 @@ System.out.println("Place your piece");
 System.out.println();
 int pos = scan.nextInt();
 
-	}
+	
 	public static void printGameBoard (String[][] gameBoard) {
 		for(String[] row : gameBoard) {
 			for(String c : row) {
@@ -45,8 +45,8 @@ int pos = scan.nextInt();
 			}
 			System.out.println();
 		}
-	}
-}
+	
+
 
 #Tower Defence
 g.setColor(Color.WHITE);
@@ -118,12 +118,12 @@ g.setColor(Color.WHITE);
     public void generateEnemies(){
     
   
-}
+
  	    
 
     public void placeRangerMonkey(){
 
-}
+
   
     	Coordinate mouseLocation = new Coordinate(gamePanel.mouseX, gamePanel.mouseY);
     	
@@ -185,6 +185,6 @@ g.setColor(Color.WHITE);
     		newMonkeys.setPosition(mouseLocation);
     	}	
     }
-}
+
 
 
