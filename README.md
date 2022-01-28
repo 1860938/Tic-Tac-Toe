@@ -16,7 +16,7 @@ I created this game myself with some logical help from many other people.
 
 
 #Tic Tac Toe:
-import java.util.Scanner;
+/*import java.util.Scanner;
 
 public class TicTacToe {
 
@@ -185,6 +185,6 @@ g.setColor(Color.WHITE);
     		newMonkeys.setPosition(mouseLocation);
     	}	
     }
-
+*/
 
 
