@@ -14,8 +14,10 @@ With this application, you can play Tic Tac Toe to your heart's content with a r
 Credits,
 I created this game myself with some logical help from many other people.
 
+##GitHub would not let me push my code
 
-#Tic Tac Toe:
+
+##Tic Tac Toe:
 /*import java.util.Scanner;
 
 public class TicTacToe {
